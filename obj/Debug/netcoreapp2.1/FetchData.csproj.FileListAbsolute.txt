@@ -1,0 +1,12 @@
+G:\Projects\FetchData\FetchData\bin\Debug\netcoreapp2.1\FetchData.deps.json
+G:\Projects\FetchData\FetchData\bin\Debug\netcoreapp2.1\FetchData.runtimeconfig.json
+G:\Projects\FetchData\FetchData\bin\Debug\netcoreapp2.1\FetchData.runtimeconfig.dev.json
+G:\Projects\FetchData\FetchData\bin\Debug\netcoreapp2.1\FetchData.dll
+G:\Projects\FetchData\FetchData\obj\Debug\netcoreapp2.1\FetchData.csprojAssemblyReference.cache
+G:\Projects\FetchData\FetchData\obj\Debug\netcoreapp2.1\FetchData.csproj.CoreCompileInputs.cache
+G:\Projects\FetchData\FetchData\obj\Debug\netcoreapp2.1\FetchData.AssemblyInfoInputs.cache
+G:\Projects\FetchData\FetchData\obj\Debug\netcoreapp2.1\FetchData.AssemblyInfo.cs
+G:\Projects\FetchData\FetchData\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+G:\Projects\FetchData\FetchData\bin\Debug\netcoreapp2.1\FetchData.pdb
+G:\Projects\FetchData\FetchData\obj\Debug\netcoreapp2.1\FetchData.dll
+G:\Projects\FetchData\FetchData\obj\Debug\netcoreapp2.1\FetchData.pdb
