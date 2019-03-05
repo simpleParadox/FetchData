@@ -16,7 +16,7 @@ namespace FetchData
     class Program
     {
         private const string EndpointUri = "https://signal.documents.azure.com:443/";
-        private const string PrimaryKey = "eJDT3xT7X4fsAmL7tozmqMmNiZbml4qRvHqg3a1qLPeL7szvDaRrnQ1wvgzrH8b4Nzht1qMhKGjxHIhIr2nClg==";
+        private const string PrimaryKey = "";
         private DocumentClient client;
 
 
